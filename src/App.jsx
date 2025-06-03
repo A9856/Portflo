@@ -16,7 +16,7 @@ import EducationPage from './Pages/EducationPage'
 export default function App() {
   return (
    <>
-   <BrowserRouter>
+   <BrowserRouter basename='/Portfoliopro/'>
    <Navbar/>
    <Routes>
     <Route path='/'element={<HomePage/>}/>
