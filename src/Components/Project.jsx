@@ -24,7 +24,7 @@ export default function Project() {
                         </div>
                         <div className="project-links">
                             <Link to="#" className="btn btn-small">Live Demo</Link>
-                            <Link to="https://github.com/Adil-khan981/Ecommerce" className="btn btn-small btn-outline">Code</Link>
+                            <Link to="https://github.com/A9856/AmazonWeb" className="btn btn-small btn-outline">Code</Link>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@ export default function Project() {
                         </div>
                         <div className="project-links">
                             <Link to="#" className="btn btn-small">Live Demo</Link>
-                            <Link to="https://github.com/Adil-khan981/Chatbot" className="btn btn-small btn-outline">Code</Link>
+                            <Link to="https://github.com/A9856/chatboat" className="btn btn-small btn-outline">Code</Link>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@ export default function Project() {
                         </div>
                         <div className="project-links">
                             <Link to="#" className="btn btn-small">Live Demo</Link>
-                            <Link to="https://github.com/Adil-khan981/Wallwatch" className="btn btn-small btn-outline ">Code</Link>
+                            <Link to="https://github.com/A9856/Watch" className="btn btn-small btn-outline ">Code</Link>
                         </div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ export default function Project() {
                         </div>
                         <div className="project-links">
                             <Link to="#" className="btn btn-small">Live Demo</Link>
-                            <Link to="https://github.com/Adil-khan981/Newswebsite" className="btn btn-small btn-outline">Code</Link>
+                            <Link to="https://github.com/A9856/NewsWeb" className="btn btn-small btn-outline">Code</Link>
                         </div>
                     </div>
                 </div>
