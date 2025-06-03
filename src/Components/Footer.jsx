@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Link, Links } from 'react-router-dom'
+import { Link, } from 'react-router-dom'
 import {getNewsletter,createNewsletter} from "../Redux/ActionCreators/NewsletterActionCreator"
 import { useDispatch, useSelector } from 'react-redux'
 export default function Footer() {

@@ -21,7 +21,7 @@ export default function About() {
                             </div>
                         </div>
                         <div className="about-image">
-                            <img src="assets/img/adi1.jpeg" alt="About Me" />
+                            <img src="/Portfoliopro/assets/img/adi1.jpeg" alt="About Me" />
                         </div>
                     </div>
                 </div>
