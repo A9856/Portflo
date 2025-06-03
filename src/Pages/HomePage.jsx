@@ -62,7 +62,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className="hero-image">
-          <img src="/Portfoliopro/assets/img/bike1.webp" alt="Adil" />
+          <img src="/Portflo/assets/img/bike1.webp" alt="Adil" />
           <div className="tech-icons">
             <i className="fab fa-java"></i>
             <i className="fab fa-js"></i>
