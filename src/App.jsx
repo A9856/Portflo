@@ -16,7 +16,7 @@ import EducationPage from './Pages/EducationPage'
 export default function App() {
   return (
    <>
-   <BrowserRouter basename='/Portflo/'>
+   <BrowserRouter basename={process.env.NODE_ENV === "development" ? "/" : '/Portflo/'}>
    <Navbar/>
    <Routes>
     <Route path='/'element={<HomePage/>}/>
