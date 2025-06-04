@@ -46,7 +46,7 @@ export default function HomePage() {
             I'm <span ref={typedRef}></span>
           </p>
           <div className="hero-buttons">
-           <Link to="/contact" className="btn btn-primary">Contact Me</Link>
+           <Link to="/Portflo/assets/img/Resume.jpg" className="btn btn-primary">Download Resume</Link>
            <Link to="https://github.com/" className="btn btn-secondary">View Projects</Link>
           </div>
           <div className="social-links">
