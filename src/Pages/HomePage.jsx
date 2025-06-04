@@ -11,16 +11,16 @@ import Education from '../Components/Education';
 import { Link } from 'react-router-dom';
 
 export default function HomePage() {
-  const typedRef = useRef(null); // Reference for Typed.js
+  const typedRef = useRef(null);
   useEffect(() => {
-    // Init AOS
+    
     AOS.init({
       duration: 1000,
       easing: 'ease-in-out',
       once: true,
       mirror: false,
     });
-    // Init Typed.js
+    
     const typed = new Typed(typedRef.current, {
       strings: ['Designer', 'Developer', 'Freelancer', 'Photographer'],
       typeSpeed: 50,
@@ -28,7 +28,7 @@ export default function HomePage() {
       loop: true,
     });
 
-    // Cleanup on component unmount
+   
     return () => {
       typed.destroy();
     };
@@ -46,8 +46,8 @@ export default function HomePage() {
             I'm <span ref={typedRef}></span>
           </p>
           <div className="hero-buttons">
-           <Link to="#contact" className="btn btn-primary">Contact Me</Link>
-           <Link to="#projects" className="btn btn-secondary">View Projects</Link>
+           <Link to="/Portflo/assets/img/Resume.jpg" className="btn btn-primary">Download Resume</Link>
+           <Link to="https://github.com/" className="btn btn-secondary">View Projects</Link>
           </div>
           <div className="social-links">
            <Link to="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
