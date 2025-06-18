@@ -1,3 +1,4 @@
+import adil1 from "../assests/img/adi1.jpeg"
 export default function About() {
 
     return (
@@ -21,7 +22,7 @@ export default function About() {
                             </div>
                         </div>
                         <div className="about-image">
-                            <img src="/Portflo/assets/img/adi1.jpeg" alt="About Me" />
+                            <img src={adil1} alt="About Me" />
                         </div>
                     </div>
                 </div>

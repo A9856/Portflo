@@ -9,7 +9,7 @@ import ContactUsPage from './ContactUsPage';
 import Project from '../Components/Project';
 import Education from '../Components/Education';
 import { Link } from 'react-router-dom';
-
+import bike1 from "../assests/img/bike1.webp"
 export default function HomePage() {
   const typedRef = useRef(null);
   useEffect(() => {
@@ -62,7 +62,7 @@ export default function HomePage() {
           </div>
         </div>
         <div className="hero-image">
-          <img src="/Portflo/assets/img/bike1.webp" alt="Adil" />
+          <img src={bike1} alt="Adil" />
           <div className="tech-icons">
             <i className="fab fa-java"></i>
             <i className="fab fa-js"></i>

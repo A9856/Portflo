@@ -1,6 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+import Ecom from "../assests/img/Ecom.webp"
+import ChatAI  from "../assests/img/ChatAI.webp"
+import Nws  from "../assests/img/News.webp"
+import Wall  from "../assests/img/WallW.webp"
 export default function Project() {
   return (
    <>
@@ -11,7 +14,7 @@ export default function Project() {
                 <div className="project-card">
                     <div className="project-image">
                         <div className="image-container">
-                            <img src="assets/img/Ecom.webp" alt="E-com App" loading="lazy"/>
+                            <img src={Ecom} alt="E-com App" loading="lazy"/>
                         </div>
                     </div>
                     <div className="project-info">
@@ -31,7 +34,7 @@ export default function Project() {
                 <div className="project-card">
                     <div className="project-image">
                         <div className="image-container">
-                            <img src="assets/img/ChatAI.webp" alt="Contact Manager" loading="lazy"/>
+                            <img src={ChatAI} alt="Contact Manager" loading="lazy"/>
                         </div>
                     </div>
                     <div className="project-info">
@@ -44,14 +47,14 @@ export default function Project() {
                         </div>
                         <div className="project-links">
                             <Link to="#" className="btn btn-small">Live Demo</Link>
-                            <Link to="https://github.com/A9856/chatboat" className="btn btn-small btn-outline">Code</Link>
+                            <Link to="https://github.com/A9856/chtbt" className="btn btn-small btn-outline">Code</Link>
                         </div>
                     </div>
                 </div>
                 <div className="project-card">
                     <div className="project-image">
                         <div className="image-container">
-                            <img src="assets/img/WallW.webp" alt="Chat App" loading="lazy"/>
+                            <img src={Wall} alt="Chat App" loading="lazy"/>
                         </div>
                     </div>
                     <div className="project-info">
@@ -71,7 +74,7 @@ export default function Project() {
                 <div className="project-card">
                     <div className="project-image">
                         <div className="image-container">
-                            <img src="assets/img/Nws.webp" alt="Chat App" loading="lazy"/>
+                            <img src={Nws}alt="Chat App" loading="lazy"/>
                         </div>
                     </div>
                     <div className="project-info">
