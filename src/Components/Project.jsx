@@ -1,11 +1,11 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Ecom from "../assests/img/Ecom.jpg"
-import chatbt  from "../assests/img/chatbt.jpg"
+import Ecom from "../assests/img/Ecom.webp"
+import chatbt  from "../assests/img/chatbt.webp"
 import Nws  from "../assests/img/News.webp"
 import Wall  from "../assests/img/WallW.webp"
-import weather from "../assests/img/weather.jpg"
-import put from "../assests/img/Put.jpg"
+import weather from "../assests/img/Weather.webp"
+import put from "../assests/img/put.webp"
 export default function Project() {
   return (
    <>
