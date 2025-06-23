@@ -64,9 +64,9 @@ export default function HomePage() {
         <div className="hero-image">
           <img src={bike1} alt="Adil" />
           <div className="tech-icons">
-            <i className="fab fa-java"></i>
+             <i className="fab fa-node-js"></i>
             <i className="fab fa-js"></i>
-            <i className="fas fa-database"></i>
+           <i className="fab fa-react"></i> 
           </div>
         </div>
       </div>

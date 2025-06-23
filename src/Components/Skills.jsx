@@ -34,7 +34,7 @@ export default function Skills() {
             <span classNameName="val text-light">70%</span>
           </li>
           <li data-percent="50">
-            <i className="fab fa-react"></i> React
+            <i className="fab fa-react"></i> ReactJs
             <div className="progress-bar-wrap">
               <div className="progress-bar" style={{ width: "50%" }}></div>
               <span classNameName="val text-light">50%</span>
@@ -49,7 +49,7 @@ export default function Skills() {
         <h3>Backend</h3>
         <ul>
           <li data-percent="85">
-            <i className="fab fa-java"></i> Nodejs
+            <i className="devicon-mongodb-plain"></i> MongoDB
             <div className="progress-bar-wrap">
               <div className="progress-bar" style={{ width: "60%" }}></div>
             </div>
@@ -60,9 +60,10 @@ export default function Skills() {
             <div className="progress-bar-wrap">
               <div className="progress-bar" style={{ width: "50%" }}></div>
             </div>
+             <span classNameName="val text-light">50%</span>
           </li>
           <li data-percent="75">
-            <i className="fab fa-docker"></i> Docker
+            <i className="fab fa-node-js"></i> NodeJs
             <div className="progress-bar-wrap">
               <div className="progress-bar" style={{ width: "50%" }}></div>
             </div>
