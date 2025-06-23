@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/Portflo/static/css/main.8f9cbf07.css",
-    "main.js": "/Portflo/static/js/main.73acf3c3.js",
-    "static/media/Ecom.webp": "/Portflo/static/media/Ecom.1cd7c4e232dd2988b79e.webp",
+    "main.js": "/Portflo/static/js/main.05247ef9.js",
     "static/media/News.webp": "/Portflo/static/media/News.7040d15fde8e8e59739b.webp",
     "static/media/apcs.jpeg": "/Portflo/static/media/apcs.51c445903ef5d214b013.jpeg",
+    "static/media/Ecom.jpg": "/Portflo/static/media/Ecom.a27f7d4ddf29eab5a069.jpg",
     "static/media/ric.jpg": "/Portflo/static/media/ric.1bde9c694b44bc76d420.jpg",
+    "static/media/chatbt.jpg": "/Portflo/static/media/chatbt.d731dcc68ed16448287b.jpg",
     "static/media/PGclg.jpg": "/Portflo/static/media/PGclg.8fbb04cb2141c1777879.jpg",
+    "static/media/Put.jpg": "/Portflo/static/media/Put.65479c4fffc927334354.jpg",
     "static/media/bike1.webp": "/Portflo/static/media/bike1.3d549d1dc0898313ac04.webp",
     "static/media/adi1.jpeg": "/Portflo/static/media/adi1.45f3272881211e0b4d7d.jpeg",
+    "static/media/weather.jpg": "/Portflo/static/media/weather.7b812a69af51c271d292.jpg",
     "static/media/WallW.webp": "/Portflo/static/media/WallW.69833b28d3c4f093fd4d.webp",
-    "static/media/ChatAI.webp": "/Portflo/static/media/ChatAI.ede96514437ce6354e99.webp",
     "index.html": "/Portflo/index.html",
     "main.8f9cbf07.css.map": "/Portflo/static/css/main.8f9cbf07.css.map",
-    "main.73acf3c3.js.map": "/Portflo/static/js/main.73acf3c3.js.map"
+    "main.05247ef9.js.map": "/Portflo/static/js/main.05247ef9.js.map"
   },
   "entrypoints": [
     "static/css/main.8f9cbf07.css",
-    "static/js/main.73acf3c3.js"
+    "static/js/main.05247ef9.js"
   ]
 }
