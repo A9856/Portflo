@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portflo/static/css/main.8f9cbf07.css",
-    "main.js": "/Portflo/static/js/main.47c79b93.js",
+    "main.js": "/Portflo/static/js/main.88e733b0.js",
     "static/media/News.webp": "/Portflo/static/media/News.7040d15fde8e8e59739b.webp",
     "static/media/apcs.jpeg": "/Portflo/static/media/apcs.51c445903ef5d214b013.jpeg",
     "static/media/ric.jpg": "/Portflo/static/media/ric.1bde9c694b44bc76d420.jpg",
@@ -15,10 +15,10 @@
     "static/media/Weather.webp": "/Portflo/static/media/Weather.b8faeab4ba8fcbf59ea7.webp",
     "index.html": "/Portflo/index.html",
     "main.8f9cbf07.css.map": "/Portflo/static/css/main.8f9cbf07.css.map",
-    "main.47c79b93.js.map": "/Portflo/static/js/main.47c79b93.js.map"
+    "main.88e733b0.js.map": "/Portflo/static/js/main.88e733b0.js.map"
   },
   "entrypoints": [
     "static/css/main.8f9cbf07.css",
-    "static/js/main.47c79b93.js"
+    "static/js/main.88e733b0.js"
   ]
 }
