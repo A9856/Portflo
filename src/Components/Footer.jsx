@@ -83,7 +83,7 @@ export default function Footer() {
       <h4 className='text-light'>Our Services</h4>
       <ul>
         <li><i className=" text-light bi bi-chevron-right"></i>  <Link className='text-light'to="/features">Features</Link></li>
-        <li><i className=" text-light bi bi-chevron-right"></i>  <Link className='text-light'to="/testimonialY">Testimonials</Link></li>
+        <li><i className=" text-light bi bi-chevron-right"></i>  <Link className='text-light'to="/testimonials">Testimonials</Link></li>
         <li><i className=" text-light bi bi-chevron-right"></i> <Link className='text-light'to="#">Privacy&Policy</Link></li>
         <li><i className=" text-light bi bi-chevron-right"></i>  <Link className='text-light'to="#">Terms & Conditions</Link></li>
       </ul>
