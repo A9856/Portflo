@@ -10,7 +10,7 @@ import Project from '../Components/Project';
 import Education from '../Components/Education';
 import { Link } from 'react-router-dom';
 import bike1 from "../assests/img/bike1.webp"
-
+import resume from "../assests/img/Resume.jpeg"
 export default function HomePage() {
   const typedRef = useRef(null);
   useEffect(() => {
@@ -47,7 +47,7 @@ export default function HomePage() {
               I'm <span ref={typedRef}></span>
             </p>
             <div className="hero-buttons">
-              <a href="/Portflo/assets/img/Resume.jpeg" target="_blank" rel="noopener noreferrer"className="btn btn-primary">Download Resume</a>
+              <a href={resume} target="_blank" rel="noopener noreferrer"className="btn btn-primary">Download Resume</a>
               <Link to="https://github.com/" className="btn btn-secondary">View Projects</Link>
             </div>
             <div className="social-links">
